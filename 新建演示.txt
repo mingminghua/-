@@ -2,5 +2,7 @@ public static void main(String[] args){
 	String name ;
 	boolean flag;
 	String SchooleName;
-	System.out.println("使用演示");
+	System.out.println("使");
+
+	ask搭建时倒垃圾垃圾啊圣诞快乐
 }
