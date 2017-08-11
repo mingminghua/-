@@ -2,5 +2,5 @@ public static void main(String[] args){
 	String name ;
 	boolean flag;
 	String SchooleName;
-	
+	System.out.println("使用演示");
 }
